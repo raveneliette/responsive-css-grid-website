@@ -1,10 +1,10 @@
-# responsive-css-grid-website
+# Health Panel CSS Grid Layout
 
 ## Overview
 
 ### Links
-- Youtube: [https://www.youtube.com/watch?v=moBhzSC455o&t=167s&ab_channel=TraversyMedia]
-- Live Site URL: [https://angry-villani-2687e8.netlify.app/]
+- Youtube: [https://www.youtube.com/watch?v=-qOe8lBAChE&t=31s&ab_channel=TraversyMedia]
+- Live Site URL: [https://ecstatic-agnesi-aa85d8.netlify.app/]
 
 ## My process
 
